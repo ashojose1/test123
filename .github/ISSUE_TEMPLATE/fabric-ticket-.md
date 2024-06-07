@@ -1,5 +1,5 @@
 ---
-name: Fabric Request
+name: 'Fabric Ticket '
 about: Suggest an idea for this project
 title: ''
 labels: ''
